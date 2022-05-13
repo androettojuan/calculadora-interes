@@ -1,0 +1,21 @@
+.control {
+    margin-bottom: 20px;
+}
+.control .label {
+    color: #000;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.control .input {
+    outline: none;
+    padding: 8px;
+    border: solid 1px #ccc;
+    border-radius: 3px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.control .error-message {
+    color: #f00;
+}
